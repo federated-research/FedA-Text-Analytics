@@ -1,0 +1,1 @@
+For database creation, the MIMIC III file "NOTEEVENTS.csv" should be placed in this folder.

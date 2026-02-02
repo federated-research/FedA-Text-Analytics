@@ -1,0 +1,1 @@
+For database creation, the MIMIC IV file "discharge.csv" should be placed in this folder.
