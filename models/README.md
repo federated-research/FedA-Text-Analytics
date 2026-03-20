@@ -1,0 +1,1 @@
+Storage folder for loading statistical models using CogStack ModelServe.
